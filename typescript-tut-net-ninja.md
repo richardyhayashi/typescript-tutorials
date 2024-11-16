@@ -9,7 +9,7 @@ Source: `https://github.com/iamshaunjp/typescript-tutorial/tree/master`
 2. Compiling TypeScript
 3. Type Basics
 4. Objects & Arrays
-5.
+5. Explicit Types
 6.
 7.
 8.
