@@ -8,7 +8,7 @@ Source: `https://github.com/iamshaunjp/typescript-tutorial/tree/master`
 1. Introduction & Setup
 2. Compiling TypeScript
 3. Type Basics
-4.
+4. Objects & Arrays
 5.
 6.
 7.
