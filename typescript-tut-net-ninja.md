@@ -13,7 +13,7 @@ Source: `https://github.com/iamshaunjp/typescript-tutorial/tree/master`
 6. Dynamic (any) Types
 7. Better Workflow & tsconfig
 8. Function Basics
-9.
+9. Type Aliases
 10.
 11.
 12.
