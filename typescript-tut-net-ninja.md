@@ -15,7 +15,7 @@ Source: `https://github.com/iamshaunjp/typescript-tutorial/tree/master`
 8. Function Basics
 9. Type Aliases
 10. Function Signatures
-11.
+11. The DOM & Type Casting
 12.
 13.
 14.
