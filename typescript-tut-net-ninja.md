@@ -10,7 +10,7 @@ Source: `https://github.com/iamshaunjp/typescript-tutorial/tree/master`
 3. Type Basics
 4. Objects & Arrays
 5. Explicit Types
-6.
+6. Dynamic (any) Types
 7.
 8.
 9.
