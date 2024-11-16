@@ -11,7 +11,7 @@ Source: `https://github.com/iamshaunjp/typescript-tutorial/tree/master`
 4. Objects & Arrays
 5. Explicit Types
 6. Dynamic (any) Types
-7.
+7. Better Workflow & tsconfig
 8.
 9.
 10.
