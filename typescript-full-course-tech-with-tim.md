@@ -9,7 +9,7 @@ x. Introduction
 1. Dynamic vs Static Typing
 2. Introduction to TypeScript
 3. TypeScript Setup
-4.
+4. tsconfig
 5.
 6.
 7.
